@@ -1,0 +1,210 @@
+{
+ "national": [
+  {
+   "semestre": "2021-06-30",
+   "zones_blanches": 625,
+   "loc_couvertes": 7893,
+   "equipements": 6864,
+   "pop_couverte_pct": 97.61,
+   "cov_ORANGE_pct": 85.14,
+   "cov_MTN_pct": 78.53,
+   "cov_MOOV_pct": 63.52,
+   "referentiel": "RGPH2014"
+  },
+  {
+   "semestre": "2021-12-31",
+   "zones_blanches": 615,
+   "loc_couvertes": 7903,
+   "equipements": 7069,
+   "pop_couverte_pct": 97.66,
+   "cov_ORANGE_pct": 85.21,
+   "cov_MTN_pct": 78.55,
+   "cov_MOOV_pct": 63.55,
+   "referentiel": "RGPH2014"
+  },
+  {
+   "semestre": "2022-06-30",
+   "zones_blanches": 609,
+   "loc_couvertes": 7909,
+   "equipements": 9768,
+   "pop_couverte_pct": 97.65,
+   "cov_ORANGE_pct": 85.69,
+   "cov_MTN_pct": 78.56,
+   "cov_MOOV_pct": 62.88,
+   "referentiel": "RGPH2014"
+  },
+  {
+   "semestre": "2022-12-31",
+   "zones_blanches": 598,
+   "loc_couvertes": 7920,
+   "equipements": 10741,
+   "pop_couverte_pct": 97.81,
+   "cov_ORANGE_pct": 85.45,
+   "cov_MTN_pct": 79.04,
+   "cov_MOOV_pct": 62.8,
+   "referentiel": "RGPH2014"
+  },
+  {
+   "semestre": "2023-06-30",
+   "zones_blanches": 557,
+   "loc_couvertes": 7961,
+   "equipements": 11467,
+   "pop_couverte_pct": 98.05,
+   "cov_ORANGE_pct": 85.88,
+   "cov_MTN_pct": 79.44,
+   "cov_MOOV_pct": 62.87,
+   "referentiel": "RGPH2014"
+  },
+  {
+   "semestre": "2023-12-31",
+   "zones_blanches": 451,
+   "loc_couvertes": 8067,
+   "equipements": 11798,
+   "pop_couverte_pct": 98.69,
+   "cov_ORANGE_pct": 87.05,
+   "cov_MTN_pct": 79.65,
+   "cov_MOOV_pct": 62.82,
+   "referentiel": "RGPH2014"
+  },
+  {
+   "semestre": "2024-06-30",
+   "zones_blanches": 438,
+   "loc_couvertes": 8080,
+   "equipements": 12229,
+   "pop_couverte_pct": 98.73,
+   "cov_ORANGE_pct": 87.9,
+   "cov_MTN_pct": 79.46,
+   "cov_MOOV_pct": 62.83,
+   "referentiel": "RGPH2014"
+  },
+  {
+   "semestre": "2024-12-31",
+   "zones_blanches": 390,
+   "loc_couvertes": 8128,
+   "equipements": 12690,
+   "pop_couverte_pct": 98.91,
+   "cov_ORANGE_pct": 88.1,
+   "cov_MTN_pct": 82.36,
+   "cov_MOOV_pct": 63.21,
+   "referentiel": "RGPH2014"
+  },
+  {
+   "semestre": "2025-06-30",
+   "zones_blanches": 382,
+   "loc_couvertes": 8136,
+   "equipements": 13703,
+   "pop_couverte_pct": 98.9,
+   "cov_ORANGE_pct": 88.64,
+   "cov_MTN_pct": 82.36,
+   "cov_MOOV_pct": 63.24,
+   "referentiel": "RGPH2014"
+  },
+  {
+   "semestre": "2026-06-30",
+   "zones_blanches": 886,
+   "loc_couvertes": 7871,
+   "equipements": 18788,
+   "pop_couverte_pct": 97.85,
+   "cov_ORANGE_pct": 84.15,
+   "cov_MTN_pct": 70.4,
+   "cov_MOOV_pct": 36.09,
+   "referentiel": "RGPH2021"
+  }
+ ],
+ "qos_evolution": [
+  {
+   "campagne": "2020",
+   "qualite_ORANGE": 0.471,
+   "debit_ORANGE": 2636.0,
+   "qualite_MTN": 0.582,
+   "debit_MTN": 5652.0,
+   "qualite_MOOV": 0.447,
+   "debit_MOOV": 4443.0
+  },
+  {
+   "campagne": "2021",
+   "qualite_ORANGE": 0.465,
+   "debit_ORANGE": 5368.0,
+   "qualite_MTN": 0.556,
+   "debit_MTN": 10058.0,
+   "qualite_MOOV": 0.479,
+   "debit_MOOV": 5619.0
+  },
+  {
+   "campagne": "2022",
+   "qualite_ORANGE": 0.556,
+   "debit_ORANGE": 26502.0,
+   "qualite_MTN": 0.551,
+   "debit_MTN": 14717.0,
+   "qualite_MOOV": 0.381,
+   "debit_MOOV": 2962.0
+  },
+  {
+   "campagne": "2023",
+   "qualite_ORANGE": 0.568,
+   "debit_ORANGE": 37398.0,
+   "qualite_MTN": 0.501,
+   "debit_MTN": 31557.0,
+   "qualite_MOOV": 0.43,
+   "debit_MOOV": 18426.0
+  },
+  {
+   "campagne": "-1 2024",
+   "qualite_ORANGE": 0.567,
+   "debit_ORANGE": 30648.0,
+   "qualite_MTN": 0.512,
+   "debit_MTN": 31582.0,
+   "qualite_MOOV": 0.42,
+   "debit_MOOV": 23632.0
+  },
+  {
+   "campagne": "-2 2024",
+   "qualite_ORANGE": 0.574,
+   "debit_ORANGE": 46206.0,
+   "qualite_MTN": 0.491,
+   "debit_MTN": 33305.0,
+   "qualite_MOOV": 0.434,
+   "debit_MOOV": 20012.0
+  },
+  {
+   "campagne": "-1 2025",
+   "qualite_ORANGE": 0.568,
+   "debit_ORANGE": 37134.0,
+   "qualite_MTN": 0.524,
+   "debit_MTN": 32580.0,
+   "qualite_MOOV": 0.407,
+   "debit_MOOV": 28282.0
+  }
+ ],
+ "modele": {
+  "pr_auc": 0.787,
+  "roc_auc": 0.915,
+  "precision_at_171": 0.953,
+  "taux_base": 0.254,
+  "naif_pr_auc": 0.635
+ },
+ "importance": {
+  "operateur": 0.2358,
+  "dist_site_operateur_km": 0.1622,
+  "dist_chef_souspref_km": 0.0251,
+  "dist_fibre_mtn_km": 0.0208,
+  "pop_rgph2021": 0.0157,
+  "dist_fibre_awale_km": 0.015,
+  "dist_fibre_orange_km": 0.0147,
+  "dist_localite_proche_km": 0.0136,
+  "dist_fibre_km": 0.0126,
+  "dist_rail_km": 0.0117,
+  "taux_electricite": 0.0107,
+  "taux_alphabetisation": 0.0101
+ },
+ "chiffres_cles": {
+  "zones_blanches": 886,
+  "pop_zones_blanches": 665793,
+  "localites_analysees": 7543,
+  "paires_analysees": 18555,
+  "retraits_observes": 4716,
+  "taux_retrait": 0.254,
+  "localites_qos": 251,
+  "campagnes_qos": 7
+ }
+}

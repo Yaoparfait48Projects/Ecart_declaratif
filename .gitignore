@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+
+# Jetons : seul .env.local.example doit être versionné.
+.env
+.env.local
+.env.*.local
+
+.DS_Store
+*.log
